@@ -1,0 +1,2 @@
+[x] Timer
+[x] History
